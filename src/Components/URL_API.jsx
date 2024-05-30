@@ -1,0 +1,1 @@
+export const URL_API="https://65f92068df15145246107f2a.mockapi.io/password/password"
