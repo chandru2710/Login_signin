@@ -78,7 +78,7 @@ function Login() {
                                 <input type="password" name="password" value={files.password} onChange={handlechange}></input>
                                 <p>{bug.password1}</p>
                                 <p className="Forgot-content">Forgot Your Password</p>
-                                <button>submit</button>
+                                <input type="submit"></input>
 
                             </div>
                         </form>
